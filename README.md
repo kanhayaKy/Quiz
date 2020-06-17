@@ -2,9 +2,9 @@
 
 
 Tools Used : 
-#HTML 5
-#CSS 3
-#Javascript
+# HTML 5
+CSS 3
+Javascript
 
 This Quiz Application is made using html, css and javascript it consists of 4 Html pages 
 #home.html-> For the home page
